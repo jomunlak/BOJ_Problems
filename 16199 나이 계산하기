@@ -1,0 +1,12 @@
+import datetime
+
+str1 = input()
+str2 = input()
+
+date1 =datetime.datetime.strptime(str1, "%Y %m %d")
+date2 =datetime.datetime.strptime(str2, "%Y %m %d")
+
+print(date2.year - date1.year if date2.month > date1.month or (date2.month == date1.month and 
+date2.day >= date1.day) else date2.year - date1.year - 1)
+print(date2.year - date1.year + 1)
+print(date2.year - date1.year)
