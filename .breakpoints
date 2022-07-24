@@ -4,13 +4,21 @@
       {
         "id": "5e09fdfb-cb4f-48aa-b8e5-4919ef862d1b",
         "line": 1,
-        "version": 29259,
+        "version": 38103,
         "index": 0
       },
       {
         "id": "ad29c3a9-5625-44d3-bcd6-fbcae0bf4458",
         "line": 1,
-        "version": 29259,
+        "version": 38103,
+        "index": 0
+      }
+    ],
+    "그리디/13417 카드 문자열.py": [
+      {
+        "id": "55832f0c-64f6-4c48-bcb1-44bafb2da5bc",
+        "line": 1,
+        "version": 1,
         "index": 0
       }
     ]
