@@ -10,8 +10,7 @@ for _ in range(int(input())):
     while n%i ==0:
       n = n//i
       div[i] += 1
-
-  
+      
   result = sum(div) if n == 1 else -1
   print(result)
   
